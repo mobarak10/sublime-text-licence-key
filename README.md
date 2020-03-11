@@ -14,6 +14,8 @@ Add these two lines below at the end of the host's file:
 127.0.0.1 license.sublimehq.com # SublimeText
 127.0.0.1 www.sublimetext.com # SublimeText
 Enter below license serial in Sublime Text 3
+
+
 ----- BEGIN LICENSE -----
 TwitterInc
 200 User License
